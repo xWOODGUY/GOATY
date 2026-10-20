@@ -1,6 +1,6 @@
 const games = [
     {
-        name: "",
+        name: "Gra",
         img: "",
         url: ""
     },
